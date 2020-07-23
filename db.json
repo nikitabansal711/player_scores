@@ -1,4 +1,6 @@
-[
+{
+  players_scores:
+ [
   {
     "CH_Gayle": 3389,
     "Mandeep_Singh": 356,
@@ -101,3 +103,4 @@
     "CJ_Jordan": 4
   }
 ]
+}
